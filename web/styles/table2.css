@@ -1,0 +1,37 @@
+body {
+	margin:2%;
+	  font-family: "Andale Mono", monospace;
+	
+	  color: mediumpurple;
+
+	}
+header{
+color: mediumpurple;
+}
+
+button[onclick]{
+font-size: 16;
+}
+
+.header{
+margin:3%;
+face:monospace;
+background-color:plum;
+}
+
+h2 i{
+font-size:25px;
+color: Purple;
+}
+
+.x{
+aling:right;
+display: inline-block;
+}
+
+.y{
+aling: top;
+display: inline-block;
+
+}
+

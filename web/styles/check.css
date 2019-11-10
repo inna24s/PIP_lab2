@@ -1,0 +1,21 @@
+body {
+background-image:url("../im/black.jpg");
+font-family: "Andale Mono", monospace;
+font-size: 24px;
+color: mediumorchid;
+}
+header{
+color: Purple;
+}
+		#time {
+			text-align: right;
+		}
+		span {
+			font-size: 120%;
+		}
+table {
+	border: 5px white;
+	width: 1000px;
+	height: 300px;
+	text-align: center;
+		}
